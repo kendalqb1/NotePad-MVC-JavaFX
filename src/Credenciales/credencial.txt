@@ -1,4 +1,4 @@
-admin
-admin
+kendal
+1234
 
 Primer espacio es usuario y segundo es contraseña
