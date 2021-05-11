@@ -1,0 +1,4 @@
+admin
+admin
+
+Primer espacio es usuario y segundo es contraseña
